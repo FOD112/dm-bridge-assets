@@ -1,0 +1,16 @@
+{
+  "name": "DM Bridge",
+  "version": "1.4.0",
+  "manifest_version": 1,
+  "description": "Lets an AI DM drive this room from a local command file.",
+  "author": "DM Bridge",
+  "icon": "https://fod112.github.io/dm-bridge-assets/extension/icon.svg",
+  "action": {
+    "title": "DM Bridge",
+    "icon": "https://fod112.github.io/dm-bridge-assets/extension/icon.svg",
+    "popover": "https://fod112.github.io/dm-bridge-assets/extension/index.html",
+    "width": 340,
+    "height": 480
+  },
+  "background_url": "https://fod112.github.io/dm-bridge-assets/extension/background.html"
+}
