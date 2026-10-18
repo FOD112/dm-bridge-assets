@@ -1,6 +1,6 @@
 {
   "name": "DM Bridge",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "manifest_version": 1,
   "description": "Lets an AI DM drive this room from a local command file.",
   "author": "DM Bridge",
